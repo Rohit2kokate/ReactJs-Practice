@@ -1,0 +1,8 @@
+#root{
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 2px;
+}
+.title{
+    background-color:chartreuse;
+}
