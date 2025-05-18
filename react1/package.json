@@ -1,0 +1,23 @@
+{
+  "name": "react1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Rohit2kokate/ReactJs-Practice/tree/main#readme",
+  "bugs": {
+    "url": "https://github.com/Rohit2kokate/ReactJs-Practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohit2kokate/ReactJs-Practice.git#main"
+  },
+  "license": "ISC",
+  "author": "rohit Kokate",
+  "type": "commonjs",
+  
+  "scripts": {
+    "test": "just"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.1"
+  }
+}
